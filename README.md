@@ -1,2 +1,3 @@
 # hello-world
-The hello world repository
+
+Hello everybody, this is my first commit! Wow!
